@@ -1,3 +1,5 @@
+""" CODE LGTM """
+
 #Area of a circle
 """
 Calculate the area of a circle

@@ -1,3 +1,7 @@
+"""CODE LGTM """
+#Although this code looks familiar 🤔 
+
+
 # Print function in python
 print("Hello", "how are you?")
 x = ("apple", "banana", "cherry")

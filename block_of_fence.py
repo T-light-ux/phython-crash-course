@@ -1,3 +1,5 @@
+"""Code LGTM """
+
 """
 'Docstring'
 Here is a phython code  that calculates the amount

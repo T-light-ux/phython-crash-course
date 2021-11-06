@@ -63,3 +63,5 @@ to fahrenheit
 C = float(input("Enter the temperature of Celsius in °C: "))
 F = (1.8 * C) + 32
 print(f"Temperature in Fahrenheit is {F}")
+
+"""CODE LGTM"""

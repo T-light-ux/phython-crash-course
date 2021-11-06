@@ -36,7 +36,8 @@ full name
 first_name = str (input ("Your first name"))
 middle_name = str (input ("Your middle name"))
 last_name = str (input ("Your last name"))
-full_name = last_name + middle_name + first_name
+full_name = last_name + '' + middle_name + '' + first_name
+#Adding empty spring so that the full_name comes with spaces after the concatenation 
 print (f"Here is your full name: {full_name}")
 
 
@@ -63,3 +64,5 @@ to fahrenheit
 C = float(input("Enter the temperature of Celsius in °C: "))
 F = (1.8 * C) + 32
 print(f"Temperature in Fahrenheit is {F}")
+
+"""Code LGTM """
